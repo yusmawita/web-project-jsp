@@ -1,0 +1,125 @@
+       body{
+            background-size: cover;
+            background-attachment: fixed;
+            background-image:url(picture/page_index.png);
+        }
+        body.chapter{
+            background-size: cover;
+            background-attachment: fixed;
+            background-image:url(picture/page_index_chapter.png);
+        }
+
+	p.a{
+        color: #ffffff;
+	font-size:15px;
+        margin-top:0px;
+        margin-bottom:0px;
+        font-family:Segoe Print;
+        
+	}
+        p.b{
+            color:#ffffff;
+            font-size:15px;
+            font-family: Segoe Print;
+            margin-top:0px;
+            margin-bottom: 0px;
+        }
+        
+        p.c{
+            color: #ff0000;
+            font-size:18px;
+            font-family:Segoe Print;
+            margin-top:0px;
+            margin-bottom: 10px;
+        }
+        table{
+            padding-top: 0px;
+            padding-bottom: 0px;
+            padding-left: 0px;
+            
+        }
+
+        a.text{
+            font-size:18px;
+            margin-left: 10px;
+            color: #ffffff;
+            text-decoration: none;
+        }
+        a.picture{
+            
+            margin-left:30px;
+            color: #ffffff;
+            text-decoration: none;
+            margin-top:20px;
+            
+        }
+        img.button{
+            width:120px;
+            height:120px;
+        }
+        img.pict{
+            height:280px;
+            width:250px;
+        }
+        
+        img.chap_button{
+            width:80px;
+            height:80px;
+            margin-bottom: 0px;
+            margin-top:0px;
+        }
+        
+        p.chap_tit{
+            color: #ffffff;
+            font-size:25px;
+            font-family: Segoe Print;
+            margin-top:0px;
+            margin-bottom: 0px;
+        }
+        
+        p.chap_banner{
+            color: #ffffff;
+            font-size:80px;
+            font-family: Raavi;
+            margin-top:0px;
+            margin-bottom: 0px;
+        }
+        
+        p.chap_con{
+            color: #ffffff;
+            font-size:15px;
+            font-family: Segoe Print;
+            margin-top:0px;
+            margin-bottom: 0px;
+               
+        }
+        
+        p.chap_right{
+            text-align: right; 
+        }
+        
+        p.chap_middle{
+            text-align: center;
+        }
+        center{
+            color: #ffffff;
+            font-size:15px;
+            font-family: Segoe Print;
+            margin-top:0px;
+            margin-bottom: 0px;
+        }
+        img.chapbutton{
+            height: 38px;
+            width: 180px;
+        }
+        li{
+            margin-top: 10px;
+        }
+        input.button{
+            background-color: #3399ff;
+            color:white;
+            font-size: 18px;
+            height:30px;
+            width:200px;
+            border:0px;
+        }

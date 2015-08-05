@@ -1,0 +1,48 @@
+         body{
+            background-size: cover;
+            background-attachment: fixed;
+            background-image:url(picture/page_login.png);
+        }
+
+	p.a{
+        color:#ffffff;
+	font-size:22px;
+        margin-top:0px;
+        margin-bottom:10px;
+        font-family:Segoe Print;
+        
+	}
+        
+        p.c{
+            color: #ff0000;
+            font-size:18px;
+            font-family:Segoe Print;
+            margin-top:0px;
+            margin-bottom: 10px;
+        }
+        
+        table{
+            padding-top: 0px;
+            padding-bottom: 0px;
+            padding-left: 0px;
+            
+        }
+        input.text{
+            width:250px;
+            height:30px;
+        }
+        
+        input.button{
+            background-color: #3399ff;
+            color:white;
+            font-size: 18px;
+            height:30px;
+            width:100px;
+            border:0px;
+        }
+        
+        a{
+            font-size:18px;
+            padding-left: 10px;
+            color: #3399ff;
+        }

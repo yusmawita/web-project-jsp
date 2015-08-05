@@ -1,0 +1,90 @@
+         body{
+            background-size: cover;
+            background-attachment: fixed;
+            background-image:url(picture/page_profile.png);
+        }
+
+	p.a{
+        color: #ffffff;
+	font-size:15px;
+        margin-top:0px;
+        margin-bottom:0px;
+        font-family:Segoe Print;
+        
+	}
+        p.b{
+            color:#ffffff;
+            font-size:15px;
+            font-family: Segoe Print;
+            margin-top:0px;
+            margin-bottom: 0px;
+        }
+        
+        p.c{
+            color: #ff0000;
+            font-size:18px;
+            font-family:Segoe Print;
+            margin-top:0px;
+            margin-bottom: 10px;
+        }
+        table{
+            padding-top: 0px;
+            padding-bottom: 0px;
+            padding-left: 0px;
+            
+        }
+
+        a.text{
+            font-size:18px;
+            margin-left: 10px;
+            color: #ffffff;
+            text-decoration: none;
+        }
+        a.picture{
+            
+            margin-left:30px;
+            color: #ffffff;
+            text-decoration: none;
+            margin-top:30px;
+            
+        }
+        img.button{
+            width:120px;
+            height:120px;
+        }
+        img.pict{
+            height:250px;
+            width:250px;
+        }
+        img.pictb{
+            height:200px;
+            width:250px;
+        }
+        input.button{
+            background-color: #3399ff;
+            color:white;
+            font-size: 18px;
+            height:30px;
+            width:100px;
+            border:0px;
+        }
+        
+        input.bd{
+            width: 250px;
+            background-color: #ffffff;
+            
+            
+        }
+        input.edi{
+            width:180px;
+        }
+        select{
+            width:180px;
+            
+        }
+        
+        textarea{
+            height: 50px;
+            width:180px;
+            resize: none;
+        }
